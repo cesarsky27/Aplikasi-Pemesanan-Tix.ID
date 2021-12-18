@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\venos\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\venos\\.nuget\\packages"
+    ]
+  }
+}

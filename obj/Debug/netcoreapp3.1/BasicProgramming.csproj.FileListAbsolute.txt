@@ -1,0 +1,14 @@
+E:\Tugas Mettrodata\BasicProgramming\bin\Debug\netcoreapp3.1\BasicProgramming.exe
+E:\Tugas Mettrodata\BasicProgramming\bin\Debug\netcoreapp3.1\BasicProgramming.deps.json
+E:\Tugas Mettrodata\BasicProgramming\bin\Debug\netcoreapp3.1\BasicProgramming.runtimeconfig.json
+E:\Tugas Mettrodata\BasicProgramming\bin\Debug\netcoreapp3.1\BasicProgramming.runtimeconfig.dev.json
+E:\Tugas Mettrodata\BasicProgramming\bin\Debug\netcoreapp3.1\BasicProgramming.dll
+E:\Tugas Mettrodata\BasicProgramming\bin\Debug\netcoreapp3.1\BasicProgramming.pdb
+E:\Tugas Mettrodata\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.csproj.AssemblyReference.cache
+E:\Tugas Mettrodata\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tugas Mettrodata\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.AssemblyInfoInputs.cache
+E:\Tugas Mettrodata\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.AssemblyInfo.cs
+E:\Tugas Mettrodata\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.csproj.CoreCompileInputs.cache
+E:\Tugas Mettrodata\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.dll
+E:\Tugas Mettrodata\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.pdb
+E:\Tugas Mettrodata\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.genruntimeconfig.cache
